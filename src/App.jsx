@@ -245,7 +245,7 @@ export default function App() {
             </svg>
 
           <div className="sidebar-image-container" style={{ position: 'relative', zIndex: 1 }}>
-            <img src="https://github.com/artemkrokhinow.png" alt="Artem Krokhinov" />
+            <img src="https://github.com/ArtemKrokhinov.png" alt="Artem Krokhinov" />
           </div>
           
           <div className="sidebar-content" style={{ position: 'relative', zIndex: 1 }}>
