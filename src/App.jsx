@@ -11,7 +11,7 @@ const projects = [
     desc: 'High-load commercial delivery platform (B2B/B2C) built with DDD & CQRS architecture. Features dynamic price calculation, live tracking, and Stripe payments.',
     tags: ['Next.js', 'NestJS', 'Prisma', 'Stripe', 'Supabase'],
     image: '/Winterthur.png',
-    link: 'https://github.com/artemkrokhinow/WinterthurExpress-delivery-service',
+    link: 'https://github.com/ArtemKrokhinov/WinterthurExpress-delivery-service',
     deploy: 'https://winterthur-express-delivery-service-flax.vercel.app/'
   },
   {
@@ -20,7 +20,7 @@ const projects = [
     desc: 'Mental health platform with emergency resources, training simulators, and professional guidance.',
     tags: ['React', 'Node.js', 'REST API', 'MongoDB'],
     image: '/shelter.png',
-    link: 'https://github.com/artemkrokhinow/Psychological-Support-Platform',
+    link: 'https://github.com/ArtemKrokhinov/Psychological-Support-Platform',
     deploy: 'https://shelter-1-rhi3.onrender.com/main'
   },
   {
@@ -29,7 +29,7 @@ const projects = [
     desc: 'Instant messaging app with live chat rooms, online presence indicators, and persistent history.',
     tags: ['React', 'Socket.IO', 'Node.js', 'MongoDB'],
     image: '/messenger.png',
-    link: 'https://github.com/artemkrokhinow/messenger',
+    link: 'https://github.com/ArtemKrokhinov/messenger',
     deploy: 'https://mymessenger-4jqz.onrender.com/login'
   },
   {
@@ -38,14 +38,14 @@ const projects = [
     desc: 'Full-stack store with real-time catalog, cart system, and secure Stripe-style checkout flow.',
     tags: ['React', 'Node.js', 'MongoDB', 'Express'],
     image: '/store.png',
-    link: 'https://github.com/artemkrokhinow/Full-Stack-Developer-Test'
+    link: 'https://github.com/ArtemKrokhinov/Full-Stack-Developer-Test'
   },
   {
     num: '05',
     title: 'ElevenLabs Voice App',
     desc: 'Text-to-speech interface with real-time synthesis, voice profiles, and in-browser playback.',
     tags: ['React', 'ElevenLabs API', 'REST'],
-    link: 'https://github.com/artemkrokhinow'
+    link: 'https://github.com/ArtemKrokhinov'
   }
 ];
 
