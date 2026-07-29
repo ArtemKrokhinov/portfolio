@@ -9,7 +9,7 @@ const Contact = () => {
       </p>
       <div style={{ display: 'flex', gap: '0.75rem', flexWrap: 'wrap' }}>
           <a href="mailto:example@email.com" className="btn btn-primary">Send Email</a>
-          <a href="https://github.com/artemkrokhinow" target="_blank" rel="noreferrer" className="btn btn-outline">GitHub</a>
+          <a href="https://github.com/ArtemKrokhinov" target="_blank" rel="noreferrer" className="btn btn-outline">GitHub</a>
       </div>
     </section>
   );
