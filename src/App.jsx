@@ -211,7 +211,6 @@ export default function App() {
   };
   return (
     <>
-      <CustomCursor />
       {/* ─── FLOATING NAV ─── */}
       <motion.div 
         className="floating-nav"

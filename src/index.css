@@ -370,11 +370,6 @@ body {
   }
 }
 
-@media (pointer: fine) {
-  body, a, button, input, summary, .project-item, .lang-card, .faq-item, .color-card, .nav-icon {
-    cursor: none !important;
-  }
-}
 
 .cursor-dot {
   position: fixed;
