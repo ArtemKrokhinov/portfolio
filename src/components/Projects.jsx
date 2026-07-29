@@ -7,7 +7,7 @@ const projectsData = [
     description: 'Full-stack e-commerce platform with dynamic catalog, cart, and secure checkout.',
     tags: ['React', 'Node.js', 'MongoDB'],
     link: 'https://full-stack-developer-test-production.up.railway.app/',
-    github: 'https://github.com/artemkrokhinow/Full-Stack-Developer-Test',
+    github: 'https://github.com/ArtemKrokhinov/Full-Stack-Developer-Test',
     image: '/store.png'
   },
   {
@@ -15,14 +15,14 @@ const projectsData = [
     description: 'Interactive text-to-speech app using ElevenLabs API for real-time voice synthesis and playback.',
     tags: ['React', 'ElevenLabs API', 'Render'],
     link: '#',
-    github: 'https://github.com/artemkrokhinow/elevenlabs'
+    github: 'https://github.com/ArtemKrokhinov/elevenlabs'
   },
   {
     title: 'Real-Time Messenger',
     description: 'Real-time communication app featuring live chat rooms, user presence, and message history.',
     tags: ['React', 'Node.js', 'Render'],
     link: 'https://mymessenger-4jqz.onrender.com',
-    github: 'https://github.com/artemkrokhinow/messenger',
+    github: 'https://github.com/ArtemKrokhinov/messenger',
     image: '/messenger.png'
   },
   {
@@ -30,7 +30,7 @@ const projectsData = [
     description: 'Accessible platform providing mental health resources, emergency guidance, and professional support.',
     tags: ['React', 'Node.js', 'REST API'],
     link: 'https://shelter-1-rhi3.onrender.com',
-    github: 'https://github.com/artemkrokhinow/Psychological-Support-Platform',
+    github: 'https://github.com/ArtemKrokhinov/Psychological-Support-Platform',
     image: '/shelter.png'
   },
   {
