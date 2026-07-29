@@ -17,7 +17,7 @@ const Resume = ({ onBack }) => (
         <span>📞 +41 76 823 44 11</span>
         <span>✉️ artkroh@gmail.com</span>
         <span>📍 Winterthur, Switzerland</span>
-        <a href="https://github.com/artemkrokhinow" target="_blank" rel="noreferrer" style={{ color: 'var(--accent)' }}>GitHub ↗</a>
+        <a href="https://github.com/ArtemKrokhinov" target="_blank" rel="noreferrer" style={{ color: 'var(--accent)' }}>GitHub ↗</a>
         <a href="https://www.linkedin.com/in/artem-krokhinov-a7971a303/" target="_blank" rel="noreferrer" style={{ color: 'var(--accent)' }}>LinkedIn ↗</a>
       </div>
     </header>
