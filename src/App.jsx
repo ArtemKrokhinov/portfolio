@@ -252,7 +252,7 @@ export default function App() {
             <p style={{ position: 'relative', zIndex: 1 }}>A Full-Stack Developer crafting fast, scalable applications with clean code.</p>
             
             <div className="social-links">
-              <a href="https://github.com/artemkrokhinow" target="_blank" rel="noreferrer" className="social-link">
+              <a href="https://github.com/ArtemKrokhinov " target="_blank" rel="noreferrer" className="social-link">
                 <FaGithub size={18} />
               </a>
               <a href="https://www.linkedin.com/in/artem-krokhinov-a7971a303/" target="_blank" rel="noreferrer" className="social-link">
